@@ -1,1 +1,1 @@
-// it is the new feature.
+// add some new features
